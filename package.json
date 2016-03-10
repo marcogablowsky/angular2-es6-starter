@@ -5,6 +5,8 @@
   "scripts": {
     "start": "node server/index.js",
     "test": "gulp test",
+    "serve": "gulp serve",
+    "dist": "gulp dist",
     "webdriver-update": "webdriver-manager update"
   },
   "repository": {
